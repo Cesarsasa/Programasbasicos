@@ -281,6 +281,10 @@ int main(int argc, char const *argv[])
                             cout<<""<<endl;
                         system("pause");
                 break;
+
+            case 6:
+            system("cls");
+            break;
                
                 
 
