@@ -745,6 +745,7 @@ int main(int argc, char const *argv[])
                     cout<<" "<<endl;
                     cout<<"NO TIENES ESA CANTIDAD DE DINERO"<<endl;
                    }
+                   
                    else {
                     saldo= saldo- retirar;
                     cout<<" "<<endl;
